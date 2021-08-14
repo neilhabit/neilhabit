@@ -1,13 +1,19 @@
 ---
-title: "Benjamin Franklins thoughts about new designers"
-date: 2020-07-13T12:49:27+06:00
+keywords:
+  - Neilhabit
+  - Neil習慣力
+  - 習慣
+  - 微小習慣
+  - 計畫
+title: "驚人習慣力給我的啟發"
+description: "介紹驚人習慣力這本書，透過自身故事給予啟發性作用。"
+date: 2019-12-13T12:49:27+08:00
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+每年的尾聲，我會回顧一下這一年發生什麼事情，但也有例外，就是忙到忘記自己是誰的時候。
+每年的開端，我會感到充滿希望、充滿幹勁的計劃今年，例如：增進英語能力、養成閱讀習慣、健身有成等等…
 
 > "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
 > -- <cite>Benjamin Franklin</cite>
