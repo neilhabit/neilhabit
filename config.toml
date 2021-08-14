@@ -57,7 +57,7 @@ contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "UA-162713883-1"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
